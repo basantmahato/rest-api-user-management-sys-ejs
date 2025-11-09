@@ -1,0 +1,12 @@
+rest api - JSON
+
+
+Get /api/users - list all users 
+Get /users render html
+
+
+
+Get /users/:id - get user by id 
+Post /users - create new user 
+Put /users/:id - update user by id 
+Delete /users/:id - delete user by id
