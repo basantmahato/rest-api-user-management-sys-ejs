@@ -767,5 +767,96 @@
     "url": "/usersadmin",
     "ip": "::1",
     "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-09T04:28:16.497Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-09T04:28:35.883Z",
+    "method": "PATCH",
+    "url": "/api/users/3",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-09T04:28:37.533Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:32:07.427Z",
+    "method": "GET",
+    "url": "/users",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:40:06.512Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:43:22.133Z",
+    "method": "GET",
+    "url": "/users",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:43:47.121Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:44:17.456Z",
+    "method": "PATCH",
+    "url": "/api/users/4",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:44:19.392Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:44:22.431Z",
+    "method": "GET",
+    "url": "/users",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:45:41.999Z",
+    "method": "POST",
+    "url": "/api/users",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:45:47.240Z",
+    "method": "GET",
+    "url": "/users",
+    "ip": "::1",
+    "message": "Request for user resource."
+  },
+  {
+    "timestamp": "2025-11-10T05:47:18.040Z",
+    "method": "GET",
+    "url": "/usersadmin",
+    "ip": "::1",
+    "message": "Request for user resource."
   }
 ]
